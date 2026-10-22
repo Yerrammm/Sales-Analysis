@@ -1,0 +1,301 @@
+﻿order_item_id,order_id,product_id,quantity,unit_price,discount_pct,line_total,products.product_id,products.product_name,products.category,products.list_price,products.unit_cost,orders.order_id,orders.customer_id,orders.order_date,orders.order_status,orders.payment_method,orders.shipping_days,customers.customer_id,customers.first_name,customers.last_name,customers.city,customers.customer_segment,customers.signup_date
+1,1001,4,1,2199,0.05,2089,4,Bluetooth Speaker,Electronics,2199,1250,1001,28,24-06-2025 00:00,Delivered,Credit Card,2,28,Mira,Rao,Visakhapatnam,Small Business,27-10-2024
+2,1001,3,1,1799,0,1799,3,USB-C Hub,Electronics,1799,980,1001,28,24-06-2025 00:00,Delivered,Credit Card,2,28,Mira,Rao,Visakhapatnam,Small Business,27-10-2024
+3,1001,13,2,10999,0.15,18698,13,Monitor 24-inch,Electronics,10999,7900,1001,28,24-06-2025 00:00,Delivered,Credit Card,2,28,Mira,Rao,Visakhapatnam,Small Business,27-10-2024
+18,1007,4,1,2199,0.15,1869,4,Bluetooth Speaker,Electronics,2199,1250,1007,26,05-07-2025 00:00,Delivered,Cash on Delivery,2,26,Tara,Kapoor,Chennai,Corporate,23-07-2023
+16,1007,3,1,1799,0.2,1439,3,USB-C Hub,Electronics,1799,980,1007,26,05-07-2025 00:00,Delivered,Cash on Delivery,2,26,Tara,Kapoor,Chennai,Corporate,23-07-2023
+17,1007,2,1,2499,0,2499,2,Mechanical Keyboard,Electronics,2499,1500,1007,26,05-07-2025 00:00,Delivered,Cash on Delivery,2,26,Tara,Kapoor,Chennai,Corporate,23-07-2023
+19,1007,5,3,1299,0.15,3312,5,Laptop Stand,Accessories,1299,650,1007,26,05-07-2025 00:00,Delivered,Cash on Delivery,2,26,Tara,Kapoor,Chennai,Corporate,23-07-2023
+14,1006,8,1,299,0.2,239,8,Notebook Set,Stationery,299,110,1006,26,26-11-2025 00:00,Delivered,Debit Card,2,26,Tara,Kapoor,Chennai,Corporate,23-07-2023
+15,1006,18,1,3299,0.15,2804,18,Running Shoes,Lifestyle,3299,2050,1006,26,26-11-2025 00:00,Delivered,Debit Card,2,26,Tara,Kapoor,Chennai,Corporate,23-07-2023
+9,1004,6,1,1899,0.2,1519,6,Backpack,Accessories,1899,950,1004,5,08-11-2025 00:00,Returned,Cash on Delivery,2,5,Vihaan,Pillai,Vijayawada,Corporate,09-10-2023
+10,1004,15,2,349,0,698,15,Phone Stand,Accessories,349,120,1004,5,08-11-2025 00:00,Returned,Cash on Delivery,2,5,Vihaan,Pillai,Vijayawada,Corporate,09-10-2023
+28,1012,16,1,1599,0.15,1359,16,Power Bank,Electronics,1599,900,1012,5,30-09-2025 00:00,Pending,Credit Card,0,5,Vihaan,Pillai,Vijayawada,Corporate,09-10-2023
+29,1012,18,2,3299,0.1,5938,18,Running Shoes,Lifestyle,3299,2050,1012,5,30-09-2025 00:00,Pending,Credit Card,0,5,Vihaan,Pillai,Vijayawada,Corporate,09-10-2023
+39,1017,8,1,299,0.15,254,8,Notebook Set,Stationery,299,110,1017,7,01-02-2025 00:00,Delivered,Debit Card,6,7,Arjun,Reddy,Jaipur,Small Business,17-08-2023
+6,1002,3,2,1799,0,3598,3,USB-C Hub,Electronics,1799,980,1002,8,13-07-2025 00:00,Delivered,Debit Card,5,8,Meera,Rao,Visakhapatnam,Corporate,23-05-2023
+4,1002,19,1,499,0,499,19,Travel Pouch,Accessories,499,220,1002,8,13-07-2025 00:00,Delivered,Debit Card,5,8,Meera,Rao,Visakhapatnam,Corporate,23-05-2023
+5,1002,7,2,999,0,1998,7,Desk Lamp,Home & Office,999,480,1002,8,13-07-2025 00:00,Delivered,Debit Card,5,8,Meera,Rao,Visakhapatnam,Corporate,23-05-2023
+26,1011,2,2,2499,0,4998,2,Mechanical Keyboard,Electronics,2499,1500,1011,8,05-07-2025 00:00,Pending,Debit Card,0,8,Meera,Rao,Visakhapatnam,Corporate,23-05-2023
+27,1011,8,1,299,0.1,269,8,Notebook Set,Stationery,299,110,1011,8,05-07-2025 00:00,Pending,Debit Card,0,8,Meera,Rao,Visakhapatnam,Corporate,23-05-2023
+21,1009,1,1,799,0,799,1,Wireless Mouse,Electronics,799,420,1009,22,27-02-2025 00:00,Delivered,Credit Card,4,22,Sneha,Gupta,Pune,Small Business,01-06-2024
+22,1009,9,2,199,0.05,378,9,Gel Pen Pack,Stationery,199,65,1009,22,27-02-2025 00:00,Delivered,Credit Card,4,22,Sneha,Gupta,Pune,Small Business,01-06-2024
+23,1009,17,2,8499,0.15,14448,17,Office Chair,Home & Office,8499,6100,1009,22,27-02-2025 00:00,Delivered,Credit Card,4,22,Sneha,Gupta,Pune,Small Business,01-06-2024
+24,1009,6,1,1899,0,1899,6,Backpack,Accessories,1899,950,1009,22,27-02-2025 00:00,Delivered,Credit Card,4,22,Sneha,Gupta,Pune,Small Business,01-06-2024
+30,1013,13,2,10999,0.1,19798,13,Monitor 24-inch,Electronics,10999,7900,1013,14,04-10-2025 00:00,Pending,Credit Card,0,14,Kavya,Patel,Kochi,Corporate,31-03-2023
+31,1013,12,1,399,0,399,12,Coffee Mug,Home & Office,399,140,1013,14,04-10-2025 00:00,Pending,Credit Card,0,14,Kavya,Patel,Kochi,Corporate,31-03-2023
+32,1013,15,1,349,0,349,15,Phone Stand,Accessories,349,120,1013,14,04-10-2025 00:00,Pending,Credit Card,0,14,Kavya,Patel,Kochi,Corporate,31-03-2023
+7,1003,12,1,399,0.05,379,12,Coffee Mug,Home & Office,399,140,1003,25,23-05-2025 00:00,Delivered,Debit Card,6,25,Manav,Pillai,Vijayawada,Small Business,28-07-2024
+8,1003,20,2,449,0.2,718,20,Planner,Stationery,449,180,1003,25,23-05-2025 00:00,Delivered,Debit Card,6,25,Manav,Pillai,Vijayawada,Small Business,28-07-2024
+34,1015,17,1,8499,0.2,6799,17,Office Chair,Home & Office,8499,6100,1015,15,04-02-2025 00:00,Delivered,Debit Card,7,15,Reyansh,Singh,Vijayawada,Consumer,27-08-2024
+20,1008,18,2,3299,0.2,5278,18,Running Shoes,Lifestyle,3299,2050,1008,17,11-10-2025 00:00,Pending,UPI,0,17,Rahul,Mehta,Jaipur,Corporate,02-02-2023
+13,1005,3,1,1799,0.1,1619,3,USB-C Hub,Electronics,1799,980,1005,21,29-01-2025 00:00,Delivered,UPI,7,21,Vikram,Kumar,Delhi,Consumer,27-08-2023
+11,1005,13,1,10999,0.15,9349,13,Monitor 24-inch,Electronics,10999,7900,1005,21,29-01-2025 00:00,Delivered,UPI,7,21,Vikram,Kumar,Delhi,Consumer,27-08-2023
+12,1005,9,2,199,0.05,378,9,Gel Pen Pack,Stationery,199,65,1005,21,29-01-2025 00:00,Delivered,UPI,7,21,Vikram,Kumar,Delhi,Consumer,27-08-2023
+25,1010,20,1,449,0,449,20,Planner,Stationery,449,180,1010,24,24-03-2025 00:00,Cancelled,Cash on Delivery,0,24,Nisha,Joshi,Kochi,Consumer,28-01-2023
+40,1018,8,1,299,0.15,254,8,Notebook Set,Stationery,299,110,1018,29,13-03-2025 00:00,Delivered,Debit Card,2,29,Ayaan,Naidu,Mumbai,Corporate,19-12-2024
+41,1018,3,2,1799,0,3598,3,USB-C Hub,Electronics,1799,980,1018,29,13-03-2025 00:00,Delivered,Debit Card,2,29,Ayaan,Naidu,Mumbai,Corporate,19-12-2024
+35,1016,8,1,299,0.2,239,8,Notebook Set,Stationery,299,110,1016,32,20-04-2025 00:00,Cancelled,Credit Card,0,32,Anika,Chowdhury,Pune,Corporate,14-08-2023
+36,1016,16,1,1599,0.1,1439,16,Power Bank,Electronics,1599,900,1016,32,20-04-2025 00:00,Cancelled,Credit Card,0,32,Anika,Chowdhury,Pune,Corporate,14-08-2023
+37,1016,14,1,2499,0.2,1999,14,Webcam HD,Electronics,2499,1500,1016,32,20-04-2025 00:00,Cancelled,Credit Card,0,32,Anika,Chowdhury,Pune,Corporate,14-08-2023
+38,1016,7,1,999,0.2,799,7,Desk Lamp,Home & Office,999,480,1016,32,20-04-2025 00:00,Cancelled,Credit Card,0,32,Anika,Chowdhury,Pune,Corporate,14-08-2023
+33,1014,3,2,1799,0,3598,3,USB-C Hub,Electronics,1799,980,1014,38,11-10-2025 00:00,Delivered,Credit Card,5,38,Tanvi,Mishra,Visakhapatnam,Corporate,16-02-2025
+42,1018,15,2,349,0,698,15,Phone Stand,Accessories,349,120,1018,29,13-03-2025 00:00,Delivered,Debit Card,2,29,Ayaan,Naidu,Mumbai,Corporate,19-12-2024
+43,1018,4,1,2199,0.1,1979,4,Bluetooth Speaker,Electronics,2199,1250,1018,29,13-03-2025 00:00,Delivered,Debit Card,2,29,Ayaan,Naidu,Mumbai,Corporate,19-12-2024
+44,1019,6,1,1899,0.1,1709,6,Backpack,Accessories,1899,950,1019,31,20-04-2025 00:00,Pending,Net Banking,0,31,Nikhil,Nair,Delhi,Small Business,05-03-2024
+45,1020,5,3,1299,0.15,3312,5,Laptop Stand,Accessories,1299,650,1020,17,21-08-2025 00:00,Delivered,Cash on Delivery,4,17,Rahul,Mehta,Jaipur,Corporate,02-02-2023
+46,1020,7,2,999,0,1998,7,Desk Lamp,Home & Office,999,480,1020,17,21-08-2025 00:00,Delivered,Cash on Delivery,4,17,Rahul,Mehta,Jaipur,Corporate,02-02-2023
+47,1020,10,2,599,0,1198,10,Water Bottle,Lifestyle,599,260,1020,17,21-08-2025 00:00,Delivered,Cash on Delivery,4,17,Rahul,Mehta,Jaipur,Corporate,02-02-2023
+48,1020,19,1,499,0.1,449,19,Travel Pouch,Accessories,499,220,1020,17,21-08-2025 00:00,Delivered,Cash on Delivery,4,17,Rahul,Mehta,Jaipur,Corporate,02-02-2023
+49,1021,6,1,1899,0,1899,6,Backpack,Accessories,1899,950,1021,33,29-09-2025 00:00,Delivered,Cash on Delivery,1,33,Varun,Jain,Bengaluru,Consumer,04-04-2024
+50,1022,20,1,449,0.2,359,20,Planner,Stationery,449,180,1022,16,26-07-2025 00:00,Delivered,Credit Card,5,16,Aditi,Verma,Chennai,Small Business,08-03-2024
+51,1023,7,1,999,0,999,7,Desk Lamp,Home & Office,999,480,1023,38,17-10-2025 00:00,Cancelled,Debit Card,0,38,Tanvi,Mishra,Visakhapatnam,Corporate,16-02-2025
+52,1023,11,2,1099,0.05,2088,11,Yoga Mat,Lifestyle,1099,570,1023,38,17-10-2025 00:00,Cancelled,Debit Card,0,38,Tanvi,Mishra,Visakhapatnam,Corporate,16-02-2025
+53,1023,8,1,299,0,299,8,Notebook Set,Stationery,299,110,1023,38,17-10-2025 00:00,Cancelled,Debit Card,0,38,Tanvi,Mishra,Visakhapatnam,Corporate,16-02-2025
+54,1024,3,1,1799,0.15,1529,3,USB-C Hub,Electronics,1799,980,1024,1,23-08-2025 00:00,Cancelled,Cash on Delivery,0,1,Aarav,Kumar,Delhi,Small Business,16-10-2024
+55,1025,10,2,599,0.2,958,10,Water Bottle,Lifestyle,599,260,1025,17,09-03-2025 00:00,Delivered,Credit Card,1,17,Rahul,Mehta,Jaipur,Corporate,02-02-2023
+56,1025,6,1,1899,0.2,1519,6,Backpack,Accessories,1899,950,1025,17,09-03-2025 00:00,Delivered,Credit Card,1,17,Rahul,Mehta,Jaipur,Corporate,02-02-2023
+57,1025,15,1,349,0.2,279,15,Phone Stand,Accessories,349,120,1025,17,09-03-2025 00:00,Delivered,Credit Card,1,17,Rahul,Mehta,Jaipur,Corporate,02-02-2023
+58,1026,4,1,2199,0.05,2089,4,Bluetooth Speaker,Electronics,2199,1250,1026,36,03-06-2025 00:00,Returned,Credit Card,1,36,Siddhi,Verma,Chennai,Consumer,08-04-2025
+59,1026,20,1,449,0.2,359,20,Planner,Stationery,449,180,1026,36,03-06-2025 00:00,Returned,Credit Card,1,36,Siddhi,Verma,Chennai,Consumer,08-04-2025
+60,1026,18,1,3299,0.2,2639,18,Running Shoes,Lifestyle,3299,2050,1026,36,03-06-2025 00:00,Returned,Credit Card,1,36,Siddhi,Verma,Chennai,Consumer,08-04-2025
+61,1027,14,2,2499,0,4998,14,Webcam HD,Electronics,2499,1500,1027,17,16-09-2025 00:00,Delivered,UPI,3,17,Rahul,Mehta,Jaipur,Corporate,02-02-2023
+62,1028,6,2,1899,0.15,3228,6,Backpack,Accessories,1899,950,1028,1,20-06-2025 00:00,Pending,Credit Card,0,1,Aarav,Kumar,Delhi,Small Business,16-10-2024
+63,1028,15,1,349,0,349,15,Phone Stand,Accessories,349,120,1028,1,20-06-2025 00:00,Pending,Credit Card,0,1,Aarav,Kumar,Delhi,Small Business,16-10-2024
+64,1028,18,3,3299,0.2,7918,18,Running Shoes,Lifestyle,3299,2050,1028,1,20-06-2025 00:00,Pending,Credit Card,0,1,Aarav,Kumar,Delhi,Small Business,16-10-2024
+65,1029,14,1,2499,0.05,2374,14,Webcam HD,Electronics,2499,1500,1029,10,07-10-2025 00:00,Delivered,Debit Card,7,10,Saanvi,Das,Hyderabad,Small Business,15-04-2023
+66,1029,5,2,1299,0,2598,5,Laptop Stand,Accessories,1299,650,1029,10,07-10-2025 00:00,Delivered,Debit Card,7,10,Saanvi,Das,Hyderabad,Small Business,15-04-2023
+67,1030,18,2,3299,0,6598,18,Running Shoes,Lifestyle,3299,2050,1030,23,18-04-2025 00:00,Returned,UPI,2,23,Sai,Iyer,Bengaluru,Corporate,08-09-2024
+68,1030,14,2,2499,0,4998,14,Webcam HD,Electronics,2499,1500,1030,23,18-04-2025 00:00,Returned,UPI,2,23,Sai,Iyer,Bengaluru,Corporate,08-09-2024
+69,1030,5,2,1299,0,2598,5,Laptop Stand,Accessories,1299,650,1030,23,18-04-2025 00:00,Returned,UPI,2,23,Sai,Iyer,Bengaluru,Corporate,08-09-2024
+70,1031,9,2,199,0,398,9,Gel Pen Pack,Stationery,199,65,1031,12,20-06-2025 00:00,Pending,Net Banking,0,12,Priya,Chowdhury,Pune,Consumer,28-01-2025
+71,1031,6,1,1899,0,1899,6,Backpack,Accessories,1899,950,1031,12,20-06-2025 00:00,Pending,Net Banking,0,12,Priya,Chowdhury,Pune,Consumer,28-01-2025
+72,1032,10,1,599,0,599,10,Water Bottle,Lifestyle,599,260,1032,31,24-04-2025 00:00,Delivered,Net Banking,7,31,Nikhil,Nair,Delhi,Small Business,05-03-2024
+73,1032,8,1,299,0.05,284,8,Notebook Set,Stationery,299,110,1032,31,24-04-2025 00:00,Delivered,Net Banking,7,31,Nikhil,Nair,Delhi,Small Business,05-03-2024
+74,1032,19,2,499,0.05,948,19,Travel Pouch,Accessories,499,220,1032,31,24-04-2025 00:00,Delivered,Net Banking,7,31,Nikhil,Nair,Delhi,Small Business,05-03-2024
+75,1033,1,1,799,0.05,759,1,Wireless Mouse,Electronics,799,420,1033,23,25-11-2025 00:00,Cancelled,Net Banking,0,23,Sai,Iyer,Bengaluru,Corporate,08-09-2024
+76,1033,4,1,2199,0.15,1869,4,Bluetooth Speaker,Electronics,2199,1250,1033,23,25-11-2025 00:00,Cancelled,Net Banking,0,23,Sai,Iyer,Bengaluru,Corporate,08-09-2024
+77,1033,9,1,199,0.2,159,9,Gel Pen Pack,Stationery,199,65,1033,23,25-11-2025 00:00,Cancelled,Net Banking,0,23,Sai,Iyer,Bengaluru,Corporate,08-09-2024
+78,1034,13,2,10999,0,21998,13,Monitor 24-inch,Electronics,10999,7900,1034,21,12-08-2025 00:00,Cancelled,Cash on Delivery,0,21,Vikram,Kumar,Delhi,Consumer,27-08-2023
+79,1035,12,1,399,0.2,319,12,Coffee Mug,Home & Office,399,140,1035,17,23-01-2025 00:00,Returned,UPI,4,17,Rahul,Mehta,Jaipur,Corporate,02-02-2023
+80,1035,14,2,2499,0.15,4248,14,Webcam HD,Electronics,2499,1500,1035,17,23-01-2025 00:00,Returned,UPI,4,17,Rahul,Mehta,Jaipur,Corporate,02-02-2023
+81,1036,17,1,8499,0.2,6799,17,Office Chair,Home & Office,8499,6100,1036,21,06-12-2025 00:00,Pending,UPI,0,21,Vikram,Kumar,Delhi,Consumer,27-08-2023
+82,1036,10,1,599,0,599,10,Water Bottle,Lifestyle,599,260,1036,21,06-12-2025 00:00,Pending,UPI,0,21,Vikram,Kumar,Delhi,Consumer,27-08-2023
+83,1036,14,1,2499,0.2,1999,14,Webcam HD,Electronics,2499,1500,1036,21,06-12-2025 00:00,Pending,UPI,0,21,Vikram,Kumar,Delhi,Consumer,27-08-2023
+84,1037,13,1,10999,0,10999,13,Monitor 24-inch,Electronics,10999,7900,1037,25,13-12-2025 00:00,Returned,Cash on Delivery,2,25,Manav,Pillai,Vijayawada,Small Business,28-07-2024
+85,1037,18,1,3299,0.15,2804,18,Running Shoes,Lifestyle,3299,2050,1037,25,13-12-2025 00:00,Returned,Cash on Delivery,2,25,Manav,Pillai,Vijayawada,Small Business,28-07-2024
+86,1037,1,1,799,0.05,759,1,Wireless Mouse,Electronics,799,420,1037,25,13-12-2025 00:00,Returned,Cash on Delivery,2,25,Manav,Pillai,Vijayawada,Small Business,28-07-2024
+87,1038,6,2,1899,0.15,3228,6,Backpack,Accessories,1899,950,1038,30,15-08-2025 00:00,Delivered,Credit Card,6,30,Riya,Das,Hyderabad,Consumer,12-07-2024
+88,1038,3,1,1799,0,1799,3,USB-C Hub,Electronics,1799,980,1038,30,15-08-2025 00:00,Delivered,Credit Card,6,30,Riya,Das,Hyderabad,Consumer,12-07-2024
+89,1038,10,2,599,0,1198,10,Water Bottle,Lifestyle,599,260,1038,30,15-08-2025 00:00,Delivered,Credit Card,6,30,Riya,Das,Hyderabad,Consumer,12-07-2024
+90,1038,17,2,8499,0,16998,17,Office Chair,Home & Office,8499,6100,1038,30,15-08-2025 00:00,Delivered,Credit Card,6,30,Riya,Das,Hyderabad,Consumer,12-07-2024
+91,1039,15,1,349,0.2,279,15,Phone Stand,Accessories,349,120,1039,2,24-01-2025 00:00,Delivered,Cash on Delivery,4,2,Diya,Gupta,Pune,Corporate,25-04-2023
+92,1040,13,2,10999,0,21998,13,Monitor 24-inch,Electronics,10999,7900,1040,37,10-04-2025 00:00,Returned,Net Banking,6,37,Harsh,Mehta,Jaipur,Small Business,07-01-2023
+93,1040,8,2,299,0,598,8,Notebook Set,Stationery,299,110,1040,37,10-04-2025 00:00,Returned,Net Banking,6,37,Harsh,Mehta,Jaipur,Small Business,07-01-2023
+94,1040,5,1,1299,0.2,1039,5,Laptop Stand,Accessories,1299,650,1040,37,10-04-2025 00:00,Returned,Net Banking,6,37,Harsh,Mehta,Jaipur,Small Business,07-01-2023
+95,1040,1,1,799,0,799,1,Wireless Mouse,Electronics,799,420,1040,37,10-04-2025 00:00,Returned,Net Banking,6,37,Harsh,Mehta,Jaipur,Small Business,07-01-2023
+96,1041,5,3,1299,0.1,3507,5,Laptop Stand,Accessories,1299,650,1041,36,08-05-2025 00:00,Pending,UPI,0,36,Siddhi,Verma,Chennai,Consumer,08-04-2025
+97,1041,15,1,349,0.2,279,15,Phone Stand,Accessories,349,120,1041,36,08-05-2025 00:00,Pending,UPI,0,36,Siddhi,Verma,Chennai,Consumer,08-04-2025
+98,1041,17,2,8499,0.1,15298,17,Office Chair,Home & Office,8499,6100,1041,36,08-05-2025 00:00,Pending,UPI,0,36,Siddhi,Verma,Chennai,Consumer,08-04-2025
+99,1041,11,2,1099,0.15,1868,11,Yoga Mat,Lifestyle,1099,570,1041,36,08-05-2025 00:00,Pending,UPI,0,36,Siddhi,Verma,Chennai,Consumer,08-04-2025
+100,1042,9,1,199,0,199,9,Gel Pen Pack,Stationery,199,65,1042,29,23-03-2025 00:00,Returned,Net Banking,7,29,Ayaan,Naidu,Mumbai,Corporate,19-12-2024
+101,1042,8,1,299,0,299,8,Notebook Set,Stationery,299,110,1042,29,23-03-2025 00:00,Returned,Net Banking,7,29,Ayaan,Naidu,Mumbai,Corporate,19-12-2024
+102,1042,20,2,449,0,898,20,Planner,Stationery,449,180,1042,29,23-03-2025 00:00,Returned,Net Banking,7,29,Ayaan,Naidu,Mumbai,Corporate,19-12-2024
+103,1042,17,1,8499,0.05,8074,17,Office Chair,Home & Office,8499,6100,1042,29,23-03-2025 00:00,Returned,Net Banking,7,29,Ayaan,Naidu,Mumbai,Corporate,19-12-2024
+104,1043,5,1,1299,0.15,1104,5,Laptop Stand,Accessories,1299,650,1043,35,11-02-2025 00:00,Delivered,Credit Card,2,35,Krishna,Singh,Vijayawada,Corporate,12-10-2023
+105,1043,7,1,999,0,999,7,Desk Lamp,Home & Office,999,480,1043,35,11-02-2025 00:00,Delivered,Credit Card,2,35,Krishna,Singh,Vijayawada,Corporate,12-10-2023
+106,1043,3,1,1799,0.1,1619,3,USB-C Hub,Electronics,1799,980,1043,35,11-02-2025 00:00,Delivered,Credit Card,2,35,Krishna,Singh,Vijayawada,Corporate,12-10-2023
+107,1043,14,1,2499,0.15,2124,14,Webcam HD,Electronics,2499,1500,1043,35,11-02-2025 00:00,Delivered,Credit Card,2,35,Krishna,Singh,Vijayawada,Corporate,12-10-2023
+108,1044,10,1,599,0.2,479,10,Water Bottle,Lifestyle,599,260,1044,2,22-10-2025 00:00,Delivered,UPI,4,2,Diya,Gupta,Pune,Corporate,25-04-2023
+109,1044,13,1,10999,0.15,9349,13,Monitor 24-inch,Electronics,10999,7900,1044,2,22-10-2025 00:00,Delivered,UPI,4,2,Diya,Gupta,Pune,Corporate,25-04-2023
+110,1044,14,2,2499,0.1,4498,14,Webcam HD,Electronics,2499,1500,1044,2,22-10-2025 00:00,Delivered,UPI,4,2,Diya,Gupta,Pune,Corporate,25-04-2023
+111,1045,11,2,1099,0.15,1868,11,Yoga Mat,Lifestyle,1099,570,1045,15,20-05-2025 00:00,Delivered,UPI,4,15,Reyansh,Singh,Vijayawada,Consumer,27-08-2024
+112,1045,13,1,10999,0.1,9899,13,Monitor 24-inch,Electronics,10999,7900,1045,15,20-05-2025 00:00,Delivered,UPI,4,15,Reyansh,Singh,Vijayawada,Consumer,27-08-2024
+113,1045,6,1,1899,0.2,1519,6,Backpack,Accessories,1899,950,1045,15,20-05-2025 00:00,Delivered,UPI,4,15,Reyansh,Singh,Vijayawada,Consumer,27-08-2024
+114,1045,15,1,349,0.2,279,15,Phone Stand,Accessories,349,120,1045,15,20-05-2025 00:00,Delivered,UPI,4,15,Reyansh,Singh,Vijayawada,Consumer,27-08-2024
+115,1046,2,1,2499,0,2499,2,Mechanical Keyboard,Electronics,2499,1500,1046,28,11-03-2025 00:00,Pending,Net Banking,0,28,Mira,Rao,Visakhapatnam,Small Business,27-10-2024
+116,1046,9,1,199,0.05,189,9,Gel Pen Pack,Stationery,199,65,1046,28,11-03-2025 00:00,Pending,Net Banking,0,28,Mira,Rao,Visakhapatnam,Small Business,27-10-2024
+117,1047,3,2,1799,0,3598,3,USB-C Hub,Electronics,1799,980,1047,25,23-05-2025 00:00,Pending,Net Banking,0,25,Manav,Pillai,Vijayawada,Small Business,28-07-2024
+118,1047,16,3,1599,0.05,4557,16,Power Bank,Electronics,1599,900,1047,25,23-05-2025 00:00,Pending,Net Banking,0,25,Manav,Pillai,Vijayawada,Small Business,28-07-2024
+119,1047,1,1,799,0,799,1,Wireless Mouse,Electronics,799,420,1047,25,23-05-2025 00:00,Pending,Net Banking,0,25,Manav,Pillai,Vijayawada,Small Business,28-07-2024
+120,1048,8,1,299,0,299,8,Notebook Set,Stationery,299,110,1048,3,16-01-2025 00:00,Delivered,UPI,2,3,Rohan,Iyer,Bengaluru,Consumer,26-01-2023
+121,1048,5,1,1299,0,1299,5,Laptop Stand,Accessories,1299,650,1048,3,16-01-2025 00:00,Delivered,UPI,2,3,Rohan,Iyer,Bengaluru,Consumer,26-01-2023
+122,1049,20,2,449,0,898,20,Planner,Stationery,449,180,1049,30,25-12-2025 00:00,Delivered,Debit Card,7,30,Riya,Das,Hyderabad,Consumer,12-07-2024
+123,1049,4,3,2199,0,6597,4,Bluetooth Speaker,Electronics,2199,1250,1049,30,25-12-2025 00:00,Delivered,Debit Card,7,30,Riya,Das,Hyderabad,Consumer,12-07-2024
+124,1050,7,2,999,0.05,1898,7,Desk Lamp,Home & Office,999,480,1050,38,14-01-2025 00:00,Delivered,Net Banking,5,38,Tanvi,Mishra,Visakhapatnam,Corporate,16-02-2025
+125,1050,3,2,1799,0.15,3058,3,USB-C Hub,Electronics,1799,980,1050,38,14-01-2025 00:00,Delivered,Net Banking,5,38,Tanvi,Mishra,Visakhapatnam,Corporate,16-02-2025
+126,1050,8,2,299,0.15,508,8,Notebook Set,Stationery,299,110,1050,38,14-01-2025 00:00,Delivered,Net Banking,5,38,Tanvi,Mishra,Visakhapatnam,Corporate,16-02-2025
+127,1050,4,2,2199,0.05,4178,4,Bluetooth Speaker,Electronics,2199,1250,1050,38,14-01-2025 00:00,Delivered,Net Banking,5,38,Tanvi,Mishra,Visakhapatnam,Corporate,16-02-2025
+128,1051,1,1,799,0.05,759,1,Wireless Mouse,Electronics,799,420,1051,35,08-08-2025 00:00,Returned,UPI,3,35,Krishna,Singh,Vijayawada,Corporate,12-10-2023
+129,1051,14,1,2499,0.1,2249,14,Webcam HD,Electronics,2499,1500,1051,35,08-08-2025 00:00,Returned,UPI,3,35,Krishna,Singh,Vijayawada,Corporate,12-10-2023
+130,1051,16,2,1599,0.1,2878,16,Power Bank,Electronics,1599,900,1051,35,08-08-2025 00:00,Returned,UPI,3,35,Krishna,Singh,Vijayawada,Corporate,12-10-2023
+131,1052,15,2,349,0,698,15,Phone Stand,Accessories,349,120,1052,12,25-09-2025 00:00,Returned,Cash on Delivery,3,12,Priya,Chowdhury,Pune,Consumer,28-01-2025
+132,1052,14,1,2499,0.1,2249,14,Webcam HD,Electronics,2499,1500,1052,12,25-09-2025 00:00,Returned,Cash on Delivery,3,12,Priya,Chowdhury,Pune,Consumer,28-01-2025
+133,1052,9,1,199,0.1,179,9,Gel Pen Pack,Stationery,199,65,1052,12,25-09-2025 00:00,Returned,Cash on Delivery,3,12,Priya,Chowdhury,Pune,Consumer,28-01-2025
+134,1052,11,1,1099,0.2,879,11,Yoga Mat,Lifestyle,1099,570,1052,12,25-09-2025 00:00,Returned,Cash on Delivery,3,12,Priya,Chowdhury,Pune,Consumer,28-01-2025
+135,1053,16,1,1599,0.05,1519,16,Power Bank,Electronics,1599,900,1053,25,22-06-2025 00:00,Delivered,Debit Card,4,25,Manav,Pillai,Vijayawada,Small Business,28-07-2024
+136,1053,7,1,999,0.15,849,7,Desk Lamp,Home & Office,999,480,1053,25,22-06-2025 00:00,Delivered,Debit Card,4,25,Manav,Pillai,Vijayawada,Small Business,28-07-2024
+137,1054,8,2,299,0.1,538,8,Notebook Set,Stationery,299,110,1054,18,12-10-2025 00:00,Delivered,Credit Card,5,18,Neha,Mishra,Visakhapatnam,Consumer,31-01-2023
+138,1055,1,1,799,0,799,1,Wireless Mouse,Electronics,799,420,1055,36,04-05-2025 00:00,Returned,Net Banking,4,36,Siddhi,Verma,Chennai,Consumer,08-04-2025
+139,1055,3,1,1799,0.15,1529,3,USB-C Hub,Electronics,1799,980,1055,36,04-05-2025 00:00,Returned,Net Banking,4,36,Siddhi,Verma,Chennai,Consumer,08-04-2025
+140,1055,10,1,599,0.15,509,10,Water Bottle,Lifestyle,599,260,1055,36,04-05-2025 00:00,Returned,Net Banking,4,36,Siddhi,Verma,Chennai,Consumer,08-04-2025
+141,1055,8,1,299,0.1,269,8,Notebook Set,Stationery,299,110,1055,36,04-05-2025 00:00,Returned,Net Banking,4,36,Siddhi,Verma,Chennai,Consumer,08-04-2025
+142,1056,10,1,599,0,599,10,Water Bottle,Lifestyle,599,260,1056,36,19-06-2025 00:00,Delivered,Net Banking,6,36,Siddhi,Verma,Chennai,Consumer,08-04-2025
+143,1056,9,1,199,0.2,159,9,Gel Pen Pack,Stationery,199,65,1056,36,19-06-2025 00:00,Delivered,Net Banking,6,36,Siddhi,Verma,Chennai,Consumer,08-04-2025
+144,1056,8,1,299,0.2,239,8,Notebook Set,Stationery,299,110,1056,36,19-06-2025 00:00,Delivered,Net Banking,6,36,Siddhi,Verma,Chennai,Consumer,08-04-2025
+145,1057,19,3,499,0,1497,19,Travel Pouch,Accessories,499,220,1057,12,09-04-2025 00:00,Delivered,Net Banking,6,12,Priya,Chowdhury,Pune,Consumer,28-01-2025
+146,1057,17,1,8499,0.05,8074,17,Office Chair,Home & Office,8499,6100,1057,12,09-04-2025 00:00,Delivered,Net Banking,6,12,Priya,Chowdhury,Pune,Consumer,28-01-2025
+147,1057,10,1,599,0,599,10,Water Bottle,Lifestyle,599,260,1057,12,09-04-2025 00:00,Delivered,Net Banking,6,12,Priya,Chowdhury,Pune,Consumer,28-01-2025
+148,1058,5,2,1299,0.15,2208,5,Laptop Stand,Accessories,1299,650,1058,35,06-03-2025 00:00,Delivered,UPI,1,35,Krishna,Singh,Vijayawada,Corporate,12-10-2023
+149,1058,16,1,1599,0.1,1439,16,Power Bank,Electronics,1599,900,1058,35,06-03-2025 00:00,Delivered,UPI,1,35,Krishna,Singh,Vijayawada,Corporate,12-10-2023
+150,1058,4,1,2199,0,2199,4,Bluetooth Speaker,Electronics,2199,1250,1058,35,06-03-2025 00:00,Delivered,UPI,1,35,Krishna,Singh,Vijayawada,Corporate,12-10-2023
+151,1059,3,1,1799,0,1799,3,USB-C Hub,Electronics,1799,980,1059,4,10-05-2025 00:00,Pending,Net Banking,0,4,Ananya,Joshi,Kochi,Small Business,29-01-2025
+152,1060,19,1,499,0,499,19,Travel Pouch,Accessories,499,220,1060,37,19-11-2025 00:00,Returned,Credit Card,1,37,Harsh,Mehta,Jaipur,Small Business,07-01-2023
+153,1060,10,1,599,0.1,539,10,Water Bottle,Lifestyle,599,260,1060,37,19-11-2025 00:00,Returned,Credit Card,1,37,Harsh,Mehta,Jaipur,Small Business,07-01-2023
+154,1061,17,1,8499,0.1,7649,17,Office Chair,Home & Office,8499,6100,1061,39,02-11-2025 00:00,Pending,Cash on Delivery,0,39,Yash,Shetty,Mumbai,Consumer,05-04-2025
+155,1061,13,1,10999,0.15,9349,13,Monitor 24-inch,Electronics,10999,7900,1061,39,02-11-2025 00:00,Pending,Cash on Delivery,0,39,Yash,Shetty,Mumbai,Consumer,05-04-2025
+156,1062,20,3,449,0,1347,20,Planner,Stationery,449,180,1062,28,06-06-2025 00:00,Cancelled,Cash on Delivery,0,28,Mira,Rao,Visakhapatnam,Small Business,27-10-2024
+157,1063,8,1,299,0,299,8,Notebook Set,Stationery,299,110,1063,14,17-11-2025 00:00,Delivered,UPI,3,14,Kavya,Patel,Kochi,Corporate,31-03-2023
+158,1063,6,1,1899,0.1,1709,6,Backpack,Accessories,1899,950,1063,14,17-11-2025 00:00,Delivered,UPI,3,14,Kavya,Patel,Kochi,Corporate,31-03-2023
+159,1064,10,2,599,0.05,1138,10,Water Bottle,Lifestyle,599,260,1064,39,29-08-2025 00:00,Delivered,Credit Card,1,39,Yash,Shetty,Mumbai,Consumer,05-04-2025
+160,1064,15,2,349,0.2,558,15,Phone Stand,Accessories,349,120,1064,39,29-08-2025 00:00,Delivered,Credit Card,1,39,Yash,Shetty,Mumbai,Consumer,05-04-2025
+161,1064,3,1,1799,0,1799,3,USB-C Hub,Electronics,1799,980,1064,39,29-08-2025 00:00,Delivered,Credit Card,1,39,Yash,Shetty,Mumbai,Consumer,05-04-2025
+162,1065,9,1,199,0,199,9,Gel Pen Pack,Stationery,199,65,1065,28,28-02-2025 00:00,Cancelled,Credit Card,0,28,Mira,Rao,Visakhapatnam,Small Business,27-10-2024
+163,1065,5,2,1299,0.15,2208,5,Laptop Stand,Accessories,1299,650,1065,28,28-02-2025 00:00,Cancelled,Credit Card,0,28,Mira,Rao,Visakhapatnam,Small Business,27-10-2024
+164,1066,13,1,10999,0.1,9899,13,Monitor 24-inch,Electronics,10999,7900,1066,37,28-05-2025 00:00,Delivered,Net Banking,1,37,Harsh,Mehta,Jaipur,Small Business,07-01-2023
+165,1066,9,1,199,0,199,9,Gel Pen Pack,Stationery,199,65,1066,37,28-05-2025 00:00,Delivered,Net Banking,1,37,Harsh,Mehta,Jaipur,Small Business,07-01-2023
+166,1066,17,2,8499,0.2,13598,17,Office Chair,Home & Office,8499,6100,1066,37,28-05-2025 00:00,Delivered,Net Banking,1,37,Harsh,Mehta,Jaipur,Small Business,07-01-2023
+167,1067,19,3,499,0.2,1198,19,Travel Pouch,Accessories,499,220,1067,21,06-11-2025 00:00,Delivered,UPI,1,21,Vikram,Kumar,Delhi,Consumer,27-08-2023
+168,1067,20,2,449,0.15,763,20,Planner,Stationery,449,180,1067,21,06-11-2025 00:00,Delivered,UPI,1,21,Vikram,Kumar,Delhi,Consumer,27-08-2023
+169,1068,6,1,1899,0.1,1709,6,Backpack,Accessories,1899,950,1068,3,31-03-2025 00:00,Delivered,Net Banking,5,3,Rohan,Iyer,Bengaluru,Consumer,26-01-2023
+170,1068,19,3,499,0.1,1347,19,Travel Pouch,Accessories,499,220,1068,3,31-03-2025 00:00,Delivered,Net Banking,5,3,Rohan,Iyer,Bengaluru,Consumer,26-01-2023
+171,1068,14,1,2499,0.05,2374,14,Webcam HD,Electronics,2499,1500,1068,3,31-03-2025 00:00,Delivered,Net Banking,5,3,Rohan,Iyer,Bengaluru,Consumer,26-01-2023
+172,1069,14,2,2499,0.1,4498,14,Webcam HD,Electronics,2499,1500,1069,21,10-12-2025 00:00,Delivered,Credit Card,7,21,Vikram,Kumar,Delhi,Consumer,27-08-2023
+173,1069,16,2,1599,0.15,2718,16,Power Bank,Electronics,1599,900,1069,21,10-12-2025 00:00,Delivered,Credit Card,7,21,Vikram,Kumar,Delhi,Consumer,27-08-2023
+174,1069,10,1,599,0,599,10,Water Bottle,Lifestyle,599,260,1069,21,10-12-2025 00:00,Delivered,Credit Card,7,21,Vikram,Kumar,Delhi,Consumer,27-08-2023
+175,1070,18,1,3299,0,3299,18,Running Shoes,Lifestyle,3299,2050,1070,21,10-05-2025 00:00,Delivered,Net Banking,1,21,Vikram,Kumar,Delhi,Consumer,27-08-2023
+176,1071,2,2,2499,0.1,4498,2,Mechanical Keyboard,Electronics,2499,1500,1071,13,23-09-2025 00:00,Delivered,Net Banking,5,13,Ishaan,Jain,Bengaluru,Small Business,12-07-2024
+177,1071,7,2,999,0.1,1798,7,Desk Lamp,Home & Office,999,480,1071,13,23-09-2025 00:00,Delivered,Net Banking,5,13,Ishaan,Jain,Bengaluru,Small Business,12-07-2024
+178,1071,9,1,199,0.2,159,9,Gel Pen Pack,Stationery,199,65,1071,13,23-09-2025 00:00,Delivered,Net Banking,5,13,Ishaan,Jain,Bengaluru,Small Business,12-07-2024
+179,1071,5,1,1299,0,1299,5,Laptop Stand,Accessories,1299,650,1071,13,23-09-2025 00:00,Delivered,Net Banking,5,13,Ishaan,Jain,Bengaluru,Small Business,12-07-2024
+180,1072,3,3,1799,0.2,4318,3,USB-C Hub,Electronics,1799,980,1072,11,09-06-2025 00:00,Cancelled,UPI,0,11,Aditya,Nair,Delhi,Corporate,23-11-2024
+181,1072,8,2,299,0.1,538,8,Notebook Set,Stationery,299,110,1072,11,09-06-2025 00:00,Cancelled,UPI,0,11,Aditya,Nair,Delhi,Corporate,23-11-2024
+182,1072,4,3,2199,0.05,6267,4,Bluetooth Speaker,Electronics,2199,1250,1072,11,09-06-2025 00:00,Cancelled,UPI,0,11,Aditya,Nair,Delhi,Corporate,23-11-2024
+183,1072,15,1,349,0.05,332,15,Phone Stand,Accessories,349,120,1072,11,09-06-2025 00:00,Cancelled,UPI,0,11,Aditya,Nair,Delhi,Corporate,23-11-2024
+184,1073,13,2,10999,0.15,18698,13,Monitor 24-inch,Electronics,10999,7900,1073,27,05-09-2025 00:00,Delivered,Net Banking,2,27,Dev,Reddy,Jaipur,Consumer,03-01-2025
+185,1073,7,2,999,0,1998,7,Desk Lamp,Home & Office,999,480,1073,27,05-09-2025 00:00,Delivered,Net Banking,2,27,Dev,Reddy,Jaipur,Consumer,03-01-2025
+186,1074,17,1,8499,0.05,8074,17,Office Chair,Home & Office,8499,6100,1074,5,22-05-2025 00:00,Pending,Net Banking,0,5,Vihaan,Pillai,Vijayawada,Corporate,09-10-2023
+187,1074,9,2,199,0.15,338,9,Gel Pen Pack,Stationery,199,65,1074,5,22-05-2025 00:00,Pending,Net Banking,0,5,Vihaan,Pillai,Vijayawada,Corporate,09-10-2023
+188,1074,1,3,799,0.1,2157,1,Wireless Mouse,Electronics,799,420,1074,5,22-05-2025 00:00,Pending,Net Banking,0,5,Vihaan,Pillai,Vijayawada,Corporate,09-10-2023
+189,1075,11,1,1099,0.05,1044,11,Yoga Mat,Lifestyle,1099,570,1075,10,17-08-2025 00:00,Cancelled,Net Banking,0,10,Saanvi,Das,Hyderabad,Small Business,15-04-2023
+190,1075,18,2,3299,0.2,5278,18,Running Shoes,Lifestyle,3299,2050,1075,10,17-08-2025 00:00,Cancelled,Net Banking,0,10,Saanvi,Das,Hyderabad,Small Business,15-04-2023
+191,1075,19,1,499,0.1,449,19,Travel Pouch,Accessories,499,220,1075,10,17-08-2025 00:00,Cancelled,Net Banking,0,10,Saanvi,Das,Hyderabad,Small Business,15-04-2023
+192,1076,13,1,10999,0.15,9349,13,Monitor 24-inch,Electronics,10999,7900,1076,15,30-07-2025 00:00,Delivered,Net Banking,3,15,Reyansh,Singh,Vijayawada,Consumer,27-08-2024
+193,1076,5,1,1299,0,1299,5,Laptop Stand,Accessories,1299,650,1076,15,30-07-2025 00:00,Delivered,Net Banking,3,15,Reyansh,Singh,Vijayawada,Consumer,27-08-2024
+194,1076,16,2,1599,0.1,2878,16,Power Bank,Electronics,1599,900,1076,15,30-07-2025 00:00,Delivered,Net Banking,3,15,Reyansh,Singh,Vijayawada,Consumer,27-08-2024
+195,1076,2,1,2499,0.1,2249,2,Mechanical Keyboard,Electronics,2499,1500,1076,15,30-07-2025 00:00,Delivered,Net Banking,3,15,Reyansh,Singh,Vijayawada,Consumer,27-08-2024
+196,1077,16,2,1599,0.05,3038,16,Power Bank,Electronics,1599,900,1077,1,15-03-2025 00:00,Delivered,Credit Card,7,1,Aarav,Kumar,Delhi,Small Business,16-10-2024
+197,1078,18,1,3299,0.1,2969,18,Running Shoes,Lifestyle,3299,2050,1078,22,16-11-2025 00:00,Returned,UPI,4,22,Sneha,Gupta,Pune,Small Business,01-06-2024
+198,1078,13,2,10999,0,21998,13,Monitor 24-inch,Electronics,10999,7900,1078,22,16-11-2025 00:00,Returned,UPI,4,22,Sneha,Gupta,Pune,Small Business,01-06-2024
+199,1078,11,1,1099,0,1099,11,Yoga Mat,Lifestyle,1099,570,1078,22,16-11-2025 00:00,Returned,UPI,4,22,Sneha,Gupta,Pune,Small Business,01-06-2024
+200,1079,4,1,2199,0.2,1759,4,Bluetooth Speaker,Electronics,2199,1250,1079,19,27-04-2025 00:00,Returned,Net Banking,1,19,Kiran,Shetty,Mumbai,Small Business,06-04-2023
+201,1080,12,1,399,0.15,339,12,Coffee Mug,Home & Office,399,140,1080,20,15-01-2025 00:00,Delivered,UPI,3,20,Pooja,Sharma,Hyderabad,Corporate,12-08-2023
+202,1080,20,1,449,0.2,359,20,Planner,Stationery,449,180,1080,20,15-01-2025 00:00,Delivered,UPI,3,20,Pooja,Sharma,Hyderabad,Corporate,12-08-2023
+203,1080,14,2,2499,0,4998,14,Webcam HD,Electronics,2499,1500,1080,20,15-01-2025 00:00,Delivered,UPI,3,20,Pooja,Sharma,Hyderabad,Corporate,12-08-2023
+204,1081,16,1,1599,0.1,1439,16,Power Bank,Electronics,1599,900,1081,12,10-02-2025 00:00,Cancelled,Net Banking,0,12,Priya,Chowdhury,Pune,Consumer,28-01-2025
+205,1081,19,1,499,0.1,449,19,Travel Pouch,Accessories,499,220,1081,12,10-02-2025 00:00,Cancelled,Net Banking,0,12,Priya,Chowdhury,Pune,Consumer,28-01-2025
+206,1082,18,1,3299,0.05,3134,18,Running Shoes,Lifestyle,3299,2050,1082,17,08-12-2025 00:00,Delivered,Net Banking,7,17,Rahul,Mehta,Jaipur,Corporate,02-02-2023
+207,1082,6,3,1899,0.05,5412,6,Backpack,Accessories,1899,950,1082,17,08-12-2025 00:00,Delivered,Net Banking,7,17,Rahul,Mehta,Jaipur,Corporate,02-02-2023
+208,1082,3,1,1799,0.1,1619,3,USB-C Hub,Electronics,1799,980,1082,17,08-12-2025 00:00,Delivered,Net Banking,7,17,Rahul,Mehta,Jaipur,Corporate,02-02-2023
+209,1083,13,1,10999,0.1,9899,13,Monitor 24-inch,Electronics,10999,7900,1083,17,22-08-2025 00:00,Pending,Debit Card,0,17,Rahul,Mehta,Jaipur,Corporate,02-02-2023
+210,1083,16,1,1599,0.15,1359,16,Power Bank,Electronics,1599,900,1083,17,22-08-2025 00:00,Pending,Debit Card,0,17,Rahul,Mehta,Jaipur,Corporate,02-02-2023
+211,1084,1,2,799,0.2,1278,1,Wireless Mouse,Electronics,799,420,1084,19,25-12-2025 00:00,Delivered,Net Banking,1,19,Kiran,Shetty,Mumbai,Small Business,06-04-2023
+212,1084,19,1,499,0.05,474,19,Travel Pouch,Accessories,499,220,1084,19,25-12-2025 00:00,Delivered,Net Banking,1,19,Kiran,Shetty,Mumbai,Small Business,06-04-2023
+213,1084,2,2,2499,0,4998,2,Mechanical Keyboard,Electronics,2499,1500,1084,19,25-12-2025 00:00,Delivered,Net Banking,1,19,Kiran,Shetty,Mumbai,Small Business,06-04-2023
+214,1085,5,1,1299,0.1,1169,5,Laptop Stand,Accessories,1299,650,1085,39,30-06-2025 00:00,Delivered,Credit Card,6,39,Yash,Shetty,Mumbai,Consumer,05-04-2025
+215,1085,4,1,2199,0.05,2089,4,Bluetooth Speaker,Electronics,2199,1250,1085,39,30-06-2025 00:00,Delivered,Credit Card,6,39,Yash,Shetty,Mumbai,Consumer,05-04-2025
+216,1085,2,2,2499,0,4998,2,Mechanical Keyboard,Electronics,2499,1500,1085,39,30-06-2025 00:00,Delivered,Credit Card,6,39,Yash,Shetty,Mumbai,Consumer,05-04-2025
+217,1086,5,2,1299,0.05,2468,5,Laptop Stand,Accessories,1299,650,1086,19,17-06-2025 00:00,Returned,Credit Card,4,19,Kiran,Shetty,Mumbai,Small Business,06-04-2023
+218,1086,18,1,3299,0.05,3134,18,Running Shoes,Lifestyle,3299,2050,1086,19,17-06-2025 00:00,Returned,Credit Card,4,19,Kiran,Shetty,Mumbai,Small Business,06-04-2023
+219,1087,11,3,1099,0,3297,11,Yoga Mat,Lifestyle,1099,570,1087,11,12-05-2025 00:00,Pending,Net Banking,0,11,Aditya,Nair,Delhi,Corporate,23-11-2024
+220,1087,4,2,2199,0,4398,4,Bluetooth Speaker,Electronics,2199,1250,1087,11,12-05-2025 00:00,Pending,Net Banking,0,11,Aditya,Nair,Delhi,Corporate,23-11-2024
+221,1087,15,2,349,0.2,558,15,Phone Stand,Accessories,349,120,1087,11,12-05-2025 00:00,Pending,Net Banking,0,11,Aditya,Nair,Delhi,Corporate,23-11-2024
+222,1088,9,1,199,0.1,179,9,Gel Pen Pack,Stationery,199,65,1088,26,13-10-2025 00:00,Delivered,Net Banking,1,26,Tara,Kapoor,Chennai,Corporate,23-07-2023
+223,1089,12,1,399,0.15,339,12,Coffee Mug,Home & Office,399,140,1089,24,11-12-2025 00:00,Returned,Debit Card,6,24,Nisha,Joshi,Kochi,Consumer,28-01-2023
+224,1089,4,1,2199,0.15,1869,4,Bluetooth Speaker,Electronics,2199,1250,1089,24,11-12-2025 00:00,Returned,Debit Card,6,24,Nisha,Joshi,Kochi,Consumer,28-01-2023
+225,1089,8,1,299,0,299,8,Notebook Set,Stationery,299,110,1089,24,11-12-2025 00:00,Returned,Debit Card,6,24,Nisha,Joshi,Kochi,Consumer,28-01-2023
+226,1089,16,1,1599,0.1,1439,16,Power Bank,Electronics,1599,900,1089,24,11-12-2025 00:00,Returned,Debit Card,6,24,Nisha,Joshi,Kochi,Consumer,28-01-2023
+227,1090,2,1,2499,0.1,2249,2,Mechanical Keyboard,Electronics,2499,1500,1090,20,29-11-2025 00:00,Delivered,Credit Card,1,20,Pooja,Sharma,Hyderabad,Corporate,12-08-2023
+228,1091,15,1,349,0.2,279,15,Phone Stand,Accessories,349,120,1091,8,19-02-2025 00:00,Delivered,Credit Card,5,8,Meera,Rao,Visakhapatnam,Corporate,23-05-2023
+229,1091,12,1,399,0.1,359,12,Coffee Mug,Home & Office,399,140,1091,8,19-02-2025 00:00,Delivered,Credit Card,5,8,Meera,Rao,Visakhapatnam,Corporate,23-05-2023
+230,1091,18,2,3299,0.1,5938,18,Running Shoes,Lifestyle,3299,2050,1091,8,19-02-2025 00:00,Delivered,Credit Card,5,8,Meera,Rao,Visakhapatnam,Corporate,23-05-2023
+231,1091,14,1,2499,0.05,2374,14,Webcam HD,Electronics,2499,1500,1091,8,19-02-2025 00:00,Delivered,Credit Card,5,8,Meera,Rao,Visakhapatnam,Corporate,23-05-2023
+232,1092,8,1,299,0.2,239,8,Notebook Set,Stationery,299,110,1092,3,20-12-2025 00:00,Delivered,Net Banking,2,3,Rohan,Iyer,Bengaluru,Consumer,26-01-2023
+233,1092,12,1,399,0.1,359,12,Coffee Mug,Home & Office,399,140,1092,3,20-12-2025 00:00,Delivered,Net Banking,2,3,Rohan,Iyer,Bengaluru,Consumer,26-01-2023
+234,1092,4,1,2199,0,2199,4,Bluetooth Speaker,Electronics,2199,1250,1092,3,20-12-2025 00:00,Delivered,Net Banking,2,3,Rohan,Iyer,Bengaluru,Consumer,26-01-2023
+235,1092,19,3,499,0.1,1347,19,Travel Pouch,Accessories,499,220,1092,3,20-12-2025 00:00,Delivered,Net Banking,2,3,Rohan,Iyer,Bengaluru,Consumer,26-01-2023
+236,1093,2,2,2499,0,4998,2,Mechanical Keyboard,Electronics,2499,1500,1093,6,06-12-2025 00:00,Delivered,Cash on Delivery,6,6,Isha,Kapoor,Chennai,Consumer,08-09-2023
+237,1094,19,2,499,0,998,19,Travel Pouch,Accessories,499,220,1094,9,17-10-2025 00:00,Delivered,Cash on Delivery,1,9,Kabir,Naidu,Mumbai,Consumer,24-01-2025
+238,1094,7,1,999,0,999,7,Desk Lamp,Home & Office,999,480,1094,9,17-10-2025 00:00,Delivered,Cash on Delivery,1,9,Kabir,Naidu,Mumbai,Consumer,24-01-2025
+239,1095,18,2,3299,0,6598,18,Running Shoes,Lifestyle,3299,2050,1095,39,02-01-2025 00:00,Delivered,Credit Card,7,39,Yash,Shetty,Mumbai,Consumer,05-04-2025
+240,1095,9,2,199,0,398,9,Gel Pen Pack,Stationery,199,65,1095,39,02-01-2025 00:00,Delivered,Credit Card,7,39,Yash,Shetty,Mumbai,Consumer,05-04-2025
+241,1096,1,1,799,0.2,639,1,Wireless Mouse,Electronics,799,420,1096,9,08-01-2025 00:00,Delivered,Credit Card,7,9,Kabir,Naidu,Mumbai,Consumer,24-01-2025
+242,1096,6,1,1899,0,1899,6,Backpack,Accessories,1899,950,1096,9,08-01-2025 00:00,Delivered,Credit Card,7,9,Kabir,Naidu,Mumbai,Consumer,24-01-2025
+243,1096,9,2,199,0.1,358,9,Gel Pen Pack,Stationery,199,65,1096,9,08-01-2025 00:00,Delivered,Credit Card,7,9,Kabir,Naidu,Mumbai,Consumer,24-01-2025
+244,1097,15,1,349,0.15,297,15,Phone Stand,Accessories,349,120,1097,29,05-07-2025 00:00,Cancelled,Cash on Delivery,0,29,Ayaan,Naidu,Mumbai,Corporate,19-12-2024
+245,1098,1,1,799,0,799,1,Wireless Mouse,Electronics,799,420,1098,3,04-12-2025 00:00,Cancelled,Debit Card,0,3,Rohan,Iyer,Bengaluru,Consumer,26-01-2023
+246,1098,2,1,2499,0.1,2249,2,Mechanical Keyboard,Electronics,2499,1500,1098,3,04-12-2025 00:00,Cancelled,Debit Card,0,3,Rohan,Iyer,Bengaluru,Consumer,26-01-2023
+247,1098,16,1,1599,0,1599,16,Power Bank,Electronics,1599,900,1098,3,04-12-2025 00:00,Cancelled,Debit Card,0,3,Rohan,Iyer,Bengaluru,Consumer,26-01-2023
+248,1098,13,1,10999,0,10999,13,Monitor 24-inch,Electronics,10999,7900,1098,3,04-12-2025 00:00,Cancelled,Debit Card,0,3,Rohan,Iyer,Bengaluru,Consumer,26-01-2023
+249,1099,13,1,10999,0.15,9349,13,Monitor 24-inch,Electronics,10999,7900,1099,5,06-03-2025 00:00,Delivered,Cash on Delivery,5,5,Vihaan,Pillai,Vijayawada,Corporate,09-10-2023
+250,1099,17,1,8499,0.2,6799,17,Office Chair,Home & Office,8499,6100,1099,5,06-03-2025 00:00,Delivered,Cash on Delivery,5,5,Vihaan,Pillai,Vijayawada,Corporate,09-10-2023
+251,1099,10,1,599,0.2,479,10,Water Bottle,Lifestyle,599,260,1099,5,06-03-2025 00:00,Delivered,Cash on Delivery,5,5,Vihaan,Pillai,Vijayawada,Corporate,09-10-2023
+252,1100,11,2,1099,0.05,2088,11,Yoga Mat,Lifestyle,1099,570,1100,36,21-04-2025 00:00,Delivered,Credit Card,4,36,Siddhi,Verma,Chennai,Consumer,08-04-2025
+253,1100,15,1,349,0.2,279,15,Phone Stand,Accessories,349,120,1100,36,21-04-2025 00:00,Delivered,Credit Card,4,36,Siddhi,Verma,Chennai,Consumer,08-04-2025
+254,1100,13,1,10999,0,10999,13,Monitor 24-inch,Electronics,10999,7900,1100,36,21-04-2025 00:00,Delivered,Credit Card,4,36,Siddhi,Verma,Chennai,Consumer,08-04-2025
+255,1100,14,2,2499,0.1,4498,14,Webcam HD,Electronics,2499,1500,1100,36,21-04-2025 00:00,Delivered,Credit Card,4,36,Siddhi,Verma,Chennai,Consumer,08-04-2025
+256,1101,14,1,2499,0.2,1999,14,Webcam HD,Electronics,2499,1500,1101,5,16-02-2025 00:00,Pending,UPI,0,5,Vihaan,Pillai,Vijayawada,Corporate,09-10-2023
+257,1102,4,2,2199,0.1,3958,4,Bluetooth Speaker,Electronics,2199,1250,1102,24,08-03-2025 00:00,Cancelled,UPI,0,24,Nisha,Joshi,Kochi,Consumer,28-01-2023
+258,1102,14,2,2499,0.2,3998,14,Webcam HD,Electronics,2499,1500,1102,24,08-03-2025 00:00,Cancelled,UPI,0,24,Nisha,Joshi,Kochi,Consumer,28-01-2023
+259,1102,12,1,399,0.05,379,12,Coffee Mug,Home & Office,399,140,1102,24,08-03-2025 00:00,Cancelled,UPI,0,24,Nisha,Joshi,Kochi,Consumer,28-01-2023
+260,1103,5,1,1299,0,1299,5,Laptop Stand,Accessories,1299,650,1103,39,09-06-2025 00:00,Delivered,Cash on Delivery,1,39,Yash,Shetty,Mumbai,Consumer,05-04-2025
+261,1103,16,1,1599,0.15,1359,16,Power Bank,Electronics,1599,900,1103,39,09-06-2025 00:00,Delivered,Cash on Delivery,1,39,Yash,Shetty,Mumbai,Consumer,05-04-2025
+262,1104,14,3,2499,0.15,6372,14,Webcam HD,Electronics,2499,1500,1104,24,28-02-2025 00:00,Pending,Debit Card,0,24,Nisha,Joshi,Kochi,Consumer,28-01-2023
+263,1104,18,1,3299,0.2,2639,18,Running Shoes,Lifestyle,3299,2050,1104,24,28-02-2025 00:00,Pending,Debit Card,0,24,Nisha,Joshi,Kochi,Consumer,28-01-2023
+264,1105,6,1,1899,0.05,1804,6,Backpack,Accessories,1899,950,1105,36,14-01-2025 00:00,Cancelled,Debit Card,0,36,Siddhi,Verma,Chennai,Consumer,08-04-2025
+265,1106,3,2,1799,0,3598,3,USB-C Hub,Electronics,1799,980,1106,22,29-06-2025 00:00,Delivered,Credit Card,2,22,Sneha,Gupta,Pune,Small Business,01-06-2024
+266,1106,5,1,1299,0.1,1169,5,Laptop Stand,Accessories,1299,650,1106,22,29-06-2025 00:00,Delivered,Credit Card,2,22,Sneha,Gupta,Pune,Small Business,01-06-2024
+267,1106,1,1,799,0.05,759,1,Wireless Mouse,Electronics,799,420,1106,22,29-06-2025 00:00,Delivered,Credit Card,2,22,Sneha,Gupta,Pune,Small Business,01-06-2024
+268,1106,20,1,449,0.05,427,20,Planner,Stationery,449,180,1106,22,29-06-2025 00:00,Delivered,Credit Card,2,22,Sneha,Gupta,Pune,Small Business,01-06-2024
+269,1107,20,2,449,0.05,853,20,Planner,Stationery,449,180,1107,37,02-11-2025 00:00,Delivered,Credit Card,1,37,Harsh,Mehta,Jaipur,Small Business,07-01-2023
+270,1107,2,1,2499,0.1,2249,2,Mechanical Keyboard,Electronics,2499,1500,1107,37,02-11-2025 00:00,Delivered,Credit Card,1,37,Harsh,Mehta,Jaipur,Small Business,07-01-2023
+271,1108,17,1,8499,0,8499,17,Office Chair,Home & Office,8499,6100,1108,32,07-11-2025 00:00,Delivered,Debit Card,4,32,Anika,Chowdhury,Pune,Corporate,14-08-2023
+272,1108,4,1,2199,0.2,1759,4,Bluetooth Speaker,Electronics,2199,1250,1108,32,07-11-2025 00:00,Delivered,Debit Card,4,32,Anika,Chowdhury,Pune,Corporate,14-08-2023
+273,1109,8,1,299,0.15,254,8,Notebook Set,Stationery,299,110,1109,38,07-09-2025 00:00,Cancelled,Debit Card,0,38,Tanvi,Mishra,Visakhapatnam,Corporate,16-02-2025
+274,1110,9,1,199,0,199,9,Gel Pen Pack,Stationery,199,65,1110,4,04-01-2025 00:00,Delivered,Credit Card,3,4,Ananya,Joshi,Kochi,Small Business,29-01-2025
+275,1110,10,1,599,0.1,539,10,Water Bottle,Lifestyle,599,260,1110,4,04-01-2025 00:00,Delivered,Credit Card,3,4,Ananya,Joshi,Kochi,Small Business,29-01-2025
+276,1111,3,1,1799,0.1,1619,3,USB-C Hub,Electronics,1799,980,1111,12,08-03-2025 00:00,Delivered,Credit Card,5,12,Priya,Chowdhury,Pune,Consumer,28-01-2025
+277,1111,13,2,10999,0.05,20898,13,Monitor 24-inch,Electronics,10999,7900,1111,12,08-03-2025 00:00,Delivered,Credit Card,5,12,Priya,Chowdhury,Pune,Consumer,28-01-2025
+278,1111,2,1,2499,0.15,2124,2,Mechanical Keyboard,Electronics,2499,1500,1111,12,08-03-2025 00:00,Delivered,Credit Card,5,12,Priya,Chowdhury,Pune,Consumer,28-01-2025
+279,1112,13,1,10999,0.05,10449,13,Monitor 24-inch,Electronics,10999,7900,1112,26,30-12-2025 00:00,Returned,Debit Card,4,26,Tara,Kapoor,Chennai,Corporate,23-07-2023
+280,1113,14,2,2499,0,4998,14,Webcam HD,Electronics,2499,1500,1113,11,13-11-2025 00:00,Delivered,Debit Card,7,11,Aditya,Nair,Delhi,Corporate,23-11-2024
+281,1114,10,2,599,0,1198,10,Water Bottle,Lifestyle,599,260,1114,28,29-10-2025 00:00,Delivered,UPI,5,28,Mira,Rao,Visakhapatnam,Small Business,27-10-2024
+282,1114,11,1,1099,0,1099,11,Yoga Mat,Lifestyle,1099,570,1114,28,29-10-2025 00:00,Delivered,UPI,5,28,Mira,Rao,Visakhapatnam,Small Business,27-10-2024
+283,1114,8,1,299,0,299,8,Notebook Set,Stationery,299,110,1114,28,29-10-2025 00:00,Delivered,UPI,5,28,Mira,Rao,Visakhapatnam,Small Business,27-10-2024
+284,1114,19,2,499,0.05,948,19,Travel Pouch,Accessories,499,220,1114,28,29-10-2025 00:00,Delivered,UPI,5,28,Mira,Rao,Visakhapatnam,Small Business,27-10-2024
+285,1115,4,1,2199,0,2199,4,Bluetooth Speaker,Electronics,2199,1250,1115,23,27-11-2025 00:00,Pending,Credit Card,0,23,Sai,Iyer,Bengaluru,Corporate,08-09-2024
+286,1115,5,1,1299,0.2,1039,5,Laptop Stand,Accessories,1299,650,1115,23,27-11-2025 00:00,Pending,Credit Card,0,23,Sai,Iyer,Bengaluru,Corporate,08-09-2024
+287,1116,19,2,499,0.2,798,19,Travel Pouch,Accessories,499,220,1116,5,01-04-2025 00:00,Pending,Net Banking,0,5,Vihaan,Pillai,Vijayawada,Corporate,09-10-2023
+288,1116,20,1,449,0.1,404,20,Planner,Stationery,449,180,1116,5,01-04-2025 00:00,Pending,Net Banking,0,5,Vihaan,Pillai,Vijayawada,Corporate,09-10-2023
+289,1116,15,1,349,0.1,314,15,Phone Stand,Accessories,349,120,1116,5,01-04-2025 00:00,Pending,Net Banking,0,5,Vihaan,Pillai,Vijayawada,Corporate,09-10-2023
+290,1116,11,1,1099,0.05,1044,11,Yoga Mat,Lifestyle,1099,570,1116,5,01-04-2025 00:00,Pending,Net Banking,0,5,Vihaan,Pillai,Vijayawada,Corporate,09-10-2023
+291,1117,15,1,349,0.05,332,15,Phone Stand,Accessories,349,120,1117,38,29-01-2025 00:00,Delivered,UPI,5,38,Tanvi,Mishra,Visakhapatnam,Corporate,16-02-2025
+292,1117,20,1,449,0,449,20,Planner,Stationery,449,180,1117,38,29-01-2025 00:00,Delivered,UPI,5,38,Tanvi,Mishra,Visakhapatnam,Corporate,16-02-2025
+293,1117,2,1,2499,0.15,2124,2,Mechanical Keyboard,Electronics,2499,1500,1117,38,29-01-2025 00:00,Delivered,UPI,5,38,Tanvi,Mishra,Visakhapatnam,Corporate,16-02-2025
+294,1118,15,2,349,0.15,593,15,Phone Stand,Accessories,349,120,1118,25,25-08-2025 00:00,Cancelled,Cash on Delivery,0,25,Manav,Pillai,Vijayawada,Small Business,28-07-2024
+295,1119,2,1,2499,0.05,2374,2,Mechanical Keyboard,Electronics,2499,1500,1119,13,14-06-2025 00:00,Cancelled,Net Banking,0,13,Ishaan,Jain,Bengaluru,Small Business,12-07-2024
+296,1119,15,3,349,0,1047,15,Phone Stand,Accessories,349,120,1119,13,14-06-2025 00:00,Cancelled,Net Banking,0,13,Ishaan,Jain,Bengaluru,Small Business,12-07-2024
+297,1120,15,1,349,0.05,332,15,Phone Stand,Accessories,349,120,1120,33,27-11-2025 00:00,Delivered,Credit Card,1,33,Varun,Jain,Bengaluru,Consumer,04-04-2024
+298,1120,17,1,8499,0.05,8074,17,Office Chair,Home & Office,8499,6100,1120,33,27-11-2025 00:00,Delivered,Credit Card,1,33,Varun,Jain,Bengaluru,Consumer,04-04-2024
+299,1120,19,2,499,0,998,19,Travel Pouch,Accessories,499,220,1120,33,27-11-2025 00:00,Delivered,Credit Card,1,33,Varun,Jain,Bengaluru,Consumer,04-04-2024
+300,1120,6,2,1899,0.2,3038,6,Backpack,Accessories,1899,950,1120,33,27-11-2025 00:00,Delivered,Credit Card,1,33,Varun,Jain,Bengaluru,Consumer,04-04-2024

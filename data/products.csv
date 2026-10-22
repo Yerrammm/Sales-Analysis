@@ -1,0 +1,21 @@
+product_id,product_name,category,list_price,unit_cost
+1,Wireless Mouse,Electronics,799,420
+2,Mechanical Keyboard,Electronics,2499,1500
+3,USB-C Hub,Electronics,1799,980
+4,Bluetooth Speaker,Electronics,2199,1250
+5,Laptop Stand,Accessories,1299,650
+6,Backpack,Accessories,1899,950
+7,Desk Lamp,Home & Office,999,480
+8,Notebook Set,Stationery,299,110
+9,Gel Pen Pack,Stationery,199,65
+10,Water Bottle,Lifestyle,599,260
+11,Yoga Mat,Lifestyle,1099,570
+12,Coffee Mug,Home & Office,399,140
+13,Monitor 24-inch,Electronics,10999,7900
+14,Webcam HD,Electronics,2499,1500
+15,Phone Stand,Accessories,349,120
+16,Power Bank,Electronics,1599,900
+17,Office Chair,Home & Office,8499,6100
+18,Running Shoes,Lifestyle,3299,2050
+19,Travel Pouch,Accessories,499,220
+20,Planner,Stationery,449,180

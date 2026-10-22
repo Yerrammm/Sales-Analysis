@@ -1,0 +1,41 @@
+﻿customer_id,first_name,last_name,city,customer_segment,signup_date
+1,Aarav,Kumar,Delhi,Small Business,2024-10-16
+2,Diya,Gupta,Pune,Corporate,2023-04-25
+3,Rohan,Iyer,Bengaluru,Consumer,2023-01-26
+4,Ananya,Joshi,Kochi,Small Business,2025-01-29
+5,Vihaan,Pillai,Vijayawada,Corporate,2023-10-09
+6,Isha,Kapoor,Chennai,Consumer,2023-09-08
+7,Arjun,Reddy,Jaipur,Small Business,2023-08-17
+8,Meera,Rao,Visakhapatnam,Corporate,2023-05-23
+9,Kabir,Naidu,Mumbai,Consumer,2025-01-24
+10,Saanvi,Das,Hyderabad,Small Business,2023-04-15
+11,Aditya,Nair,Delhi,Corporate,2024-11-23
+12,Priya,Chowdhury,Pune,Consumer,2025-01-28
+13,Ishaan,Jain,Bengaluru,Small Business,2024-07-12
+14,Kavya,Patel,Kochi,Corporate,2023-03-31
+15,Reyansh,Singh,Vijayawada,Consumer,2024-08-27
+16,Aditi,Verma,Chennai,Small Business,2024-03-08
+17,Rahul,Mehta,Jaipur,Corporate,2023-02-02
+18,Neha,Mishra,Visakhapatnam,Consumer,2023-01-31
+19,Kiran,Shetty,Mumbai,Small Business,2023-04-06
+20,Pooja,Sharma,Hyderabad,Corporate,2023-08-12
+21,Vikram,Kumar,Delhi,Consumer,2023-08-27
+22,Sneha,Gupta,Pune,Small Business,2024-06-01
+23,Sai,Iyer,Bengaluru,Corporate,2024-09-08
+24,Nisha,Joshi,Kochi,Consumer,2023-01-28
+25,Manav,Pillai,Vijayawada,Small Business,2024-07-28
+26,Tara,Kapoor,Chennai,Corporate,2023-07-23
+27,Dev,Reddy,Jaipur,Consumer,2025-01-03
+28,Mira,Rao,Visakhapatnam,Small Business,2024-10-27
+29,Ayaan,Naidu,Mumbai,Corporate,2024-12-19
+30,Riya,Das,Hyderabad,Consumer,2024-07-12
+31,Nikhil,Nair,Delhi,Small Business,2024-03-05
+32,Anika,Chowdhury,Pune,Corporate,2023-08-14
+33,Varun,Jain,Bengaluru,Consumer,2024-04-04
+34,Lavanya,Patel,Kochi,Small Business,2024-08-26
+35,Krishna,Singh,Vijayawada,Corporate,2023-10-12
+36,Siddhi,Verma,Chennai,Consumer,2025-04-08
+37,Harsh,Mehta,Jaipur,Small Business,2023-01-07
+38,Tanvi,Mishra,Visakhapatnam,Corporate,2025-02-16
+39,Yash,Shetty,Mumbai,Consumer,2025-04-05
+40,Asha,Sharma,Hyderabad,Small Business,2023-06-13
