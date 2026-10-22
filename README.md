@@ -25,12 +25,13 @@ The project combines an interactive Excel dashboard with SQL-based analysis to s
 
 *Note: Total line sales includes all order statuses, including cancelled and returned orders.*
 
-## Excel Dashboard
+## 📊 Excel Dashboard
 
-The interactive dashboard includes sales KPIs, product and category performance, and order analysis. Slicers allow users to filter the dashboard by date, city, category, and order status.
+The interactive dashboard includes sales KPIs, product and category performance, and order analysis. Slicers filter by date, city, category, and order status.
 
-<!-- Replace the filename below with your actual screenshot path -->
 ![Sales Dashboard](screenshots/sales_dashboard.png)
+
+[Download the Excel Dashboard](Sales_Dashboard.xlsx)
 
 ## SQL Analysis
 
