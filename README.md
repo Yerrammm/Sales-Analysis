@@ -29,7 +29,7 @@ The project combines an interactive Excel dashboard with SQL-based analysis to s
 
 The interactive dashboard includes sales KPIs, product and category performance, and order analysis. Slicers filter by date, city, category, and order status.
 
-![Sales Dashboard](screenshots/sales_dashboard.png)
+![Sales Dashboard](https://github.com/Yerrammm/Sales-Analysis/blob/main/demo/Screenshot%202026-10-22%20180023.png)
 
 [Download the Excel Dashboard](https://github.com/Yerrammm/Sales-Analysis/blob/main/ecommerce_project_excel_sql.xlsx)
 
