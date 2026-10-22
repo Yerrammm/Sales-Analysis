@@ -31,7 +31,7 @@ The interactive dashboard includes sales KPIs, product and category performance,
 
 ![Sales Dashboard](screenshots/sales_dashboard.png)
 
-[Download the Excel Dashboard](Sales_Dashboard.xlsx)
+[Download the Excel Dashboard](https://github.com/Yerrammm/Sales-Analysis/blob/main/ecommerce_project_excel_sql.xlsx)
 
 ## SQL Analysis
 
